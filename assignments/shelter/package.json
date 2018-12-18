@@ -1,0 +1,97 @@
+{
+  "private": true,
+  "name": "shelter",
+  "version": "1.0.0",
+  "description": "Learn express by finishing a simplified real world example",
+  "license": "MIT",
+  "keywords": [],
+  "repository": "cmda-be/shelter",
+  "author": "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
+  "files": [
+    "db",
+    "server",
+    "src",
+    "static",
+    "view"
+  ],
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-pack-flat": "^3.0.6",
+    "browserify": "^15.2.0",
+    "bundle-collapser": "^1.3.0",
+    "camelcase": "^4.1.0",
+    "common-shakeify": "^0.4.5",
+    "concat-stream": "^1.6.0",
+    "cssnano": "^3.10.0",
+    "d3-time-format": "^2.1.1",
+    "debug": "^3.1.0",
+    "hast-util-select": "^1.0.1",
+    "hast-util-to-string": "^1.0.1",
+    "mass-converter": "^0.1.1",
+    "moment": "^2.20.1",
+    "nyc": "^11.4.1",
+    "postcss-cli": "^4.1.1",
+    "rehype-parse": "^4.0.0",
+    "remark-cli": "^5.0.0",
+    "remark-preset-wooorm": "^4.0.0",
+    "request": "^2.83.0",
+    "sharp": "^0.19.0",
+    "stylelint": "^8.4.0",
+    "stylelint-config-standard": "^18.0.0",
+    "tape": "^4.8.0",
+    "uglify-es": "^3.3.8",
+    "uglifyify": "^4.0.5",
+    "unified": "^6.1.6",
+    "xo": "^0.18.2"
+  },
+  "scripts": {
+    "start": "node server",
+    "lint:js": "xo",
+    "lint:css": "stylelint src/index.css",
+    "lint:md": "remark . -qf",
+    "lint": "npm run lint:js && npm run lint:css && npm run lint:md",
+    "build:js": "browserify -p browser-pack-flat/plugin -p [ common-shakeify -v ] -p bundle-collapser/plugin -g uglifyify src | uglifyjs -cm > static/index.js",
+    "build:css": "postcss src/index.css > static/index.css",
+    "build:md": "remark . -qfo",
+    "build": "npm run build:js && npm run build:css",
+    "test": "node test",
+    "test-coverage": "nyc --reporter lcov tape test.js"
+  },
+  "nyc": {
+    "check-coverage": true,
+    "lines": 100,
+    "functions": 100,
+    "branches": 100
+  },
+  "xo": {
+    "space": true,
+    "esnext": false,
+    "rules": {
+      "semi": [
+        "error",
+        "never"
+      ],
+      "guard-for-in": "off"
+    }
+  },
+  "stylelint": {
+    "extends": "stylelint-config-standard"
+  },
+  "postcss": {
+    "plugins": {
+      "cssnano": {
+        "preset": "default"
+      }
+    }
+  },
+  "remarkConfig": {
+    "plugins": [
+      "preset-wooorm"
+    ]
+  }
+}

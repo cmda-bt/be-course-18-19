@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang=en>
+<meta charset=utf8>
+<meta name=viewport content=width=device-width,initial-scale=1>
+<link rel="shortcut icon" type=image/x-icon href=data:image/x-icon;,>
+<title><%= data.name %> | Shelter</title>
+<link rel=stylesheet href=/index.css>
+<main class=container>
+  <h1><%= data.name %></h1>
+  <aside>
+    <a class="block-link primary-action" href="https://www.nycacc.org/node/<%= data.id %>">Adopt <%= data.name %></a>
+    <p class=secondary-action>…or <a href="/">head back for more good <%= data.sex == 'male' ? 'boys' : 'girls' %></a> like <%= data.sex == 'male' ? 'him' : 'her' %></p>
+  </aside>
+  <figure class=frame>
+    <div class=frame-image>
+      <img src="/image/<%= data.id %>.jpg" alt>
+    </div>
+    <figcaption>
+      <p><%= description(data) %></p>
+    </figcaption>
+  </figure>
+  <dl class=capitalize>
+    <%
+      Object.keys(data).forEach(function (key) {
+        var value = data[key]
+        if (key == 'name' || key == 'description' || key == 'id') return
+        if (key == 'primaryColor') key = 'primary color'
+        if (key == 'secondaryColor') key = 'secondary color'
+        if (value === null || value === undefined) return
+    %>
+      <dt><%= key %></dt>
+    <% if (value == true) { %>
+      <dd>Yes</dd>
+    <% } else if (value == false) { %>
+      <dd>No</dd>
+    <% } else if (key == 'weight') { %>
+      <dd><%= value %> <%= plural('kilogram', value) %></dd>
+    <% } else if (key == 'age') { %>
+      <dd><%= value %> <%= plural('year', value) %></dd>
+    <% } else if (key == 'intake') { %>
+      <dd>
+        <time datetime="<%= value %>"><%= value %></time>
+      </dd>
+    <% } else { %>
+      <dd><%= value %></dd>
+    <% } %>
+    <% }); %>
+  </dl>
+</main>
+<script src=/index.js></script>
