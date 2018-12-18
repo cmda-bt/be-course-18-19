@@ -19,9 +19,9 @@ The course **Backend** is given at [**@CMDA**][cmda] in 2019 between
 *   **Course**: Backend
 *   **Coordinator**: [Danny de Vries][dangit]
 *   **Lecturers**:
-    [Danny de Vries][dangit] ([**@dandevri**][danweb]) (BT 3 and BT 4) and
+    [Danny de Vries][dangit] ([**@dandevri**][danweb]) (BT 3 / *tech2* and BT 4 / *tech4*) and
     [Laurens Aarnoudse][razgit] ([**@razpudding**][razweb])
-    (BT 4)
+    (BT 4 / *tech3*)
 *   **SIS**: Backend Development
 *   **Credit**: 3 ECTS
 *   **Academic year**: 2018-2019
@@ -76,48 +76,44 @@ The 2 main goals in this course are that you’re able to:
 
 In practice you’ll learn to:
 
-1.  <a name="subgoal-1"></a>
-    Navigate the command line ([**week 1**][w1])
-2.  <a name="subgoal-2"></a>
-    Version control with Git ([**week 1**][w1])
-3.  <a name="subgoal-3"></a>
-    Collaborate on GitHub ([**week 1**][w1] and [**week 2**][w2])
-4.  <a name="subgoal-4"></a>
-    Write docs in Markdown ([**week 1**][w1] and [**week 2**][w2])
-5.  <a name="subgoal-5"></a>
-    Understand Node principles ([**week 2**][w2] and later weeks)
-6.  <a name="subgoal-6"></a>
-    Use packages from npm ([**week 2**][w2])
-7.  <a name="subgoal-7"></a>
-    Communicate over HTTP ([**week 3**][w3] and [**week 4**][w4])
-8.  <a name="subgoal-8"></a>
-    Use web frameworks like express ([**week 4**][w4] and [**week 5**][w5])
-9.  <a name="subgoal-9"></a>
-    Render data server-side ([**week 4**][w4])
-10. <a name="subgoal-10"></a>
-    Upload data and files to servers ([**week 4**][w4])
-11. <a name="subgoal-11"></a>
-    Request data from clients ([**week 4**][w4])
-12. <a name="subgoal-12"></a>
+* <a name="subgoal-5"></a>
+    Understand Node principles ([**week 1**][w1])
+*  <a name="subgoal-6"></a>
+    Use packages from npm ([**week 1**][w1])
+* <a name="subgoal-7"></a>
+    Communicate over HTTP ([**week 2**][w2])
+* <a name="subgoal-8"></a>
+    Use web frameworks like express ([**week 2**][w2])
+* <a name="subgoal-9"></a>
+    Render data server-side ([**week 3**][w3])
+* <a name="subgoal-10"></a>
+    Upload data and files to servers ([**week 3**][w3])
+* <a name="subgoal-12"></a>
     Respond with data from a server ([**week 4**][w4])
-13. <a name="subgoal-13"></a>
-    Use SQL and NoSQL databases like MySQL and MongoDB ([**week 5**][w5])
-14. <a name="subgoal-14"></a>
-    Let users sign up, log in, be logged in, and log out ([**week 6**][w6])
+* <a name="subgoal-11"></a>
+    Request data from clients ([**week 4**][w4])
+* <a name="subgoal-13"></a>
+    Connect to database with Mongoose ([**week 5**][w5])
+* <a name="subgoal-13"></a>
+    Get data from MongoDB ([**week 5**][w5])
+* <a name="subgoal-13"></a>
+    Debugging and error handling ([**week 6**][w6])
+* <a name="subgoal-13"></a>
+    Deploying your application ([**week 7**][w7]) 
 
 The below table breaks down the general time needed per week.
 
 | Week | Effort | Topic         | Activities                                             |
 | ---- | -----: | ------------- | ------------------------------------------------------ |
-| 1    |  9:20h | command line  | [lab][w1lab], [lecture][w1lec], [assignments][w1a]     |
-| 2    |  9:20h | node          | [lab][w2lab], [lecture][w2lec], [assignments][w2a]     |
-| 3    |  9:20h | http          | [lab][w3lab], [lecture][w3lec], [assignments][w3a]     |
-| 4    |  9:20h | express       | [lab][w4lab], [lecture][w4lec], [assignments][w4a]     |
+| 1    |  9:20h | node & npm  | [lab][w1lab], [lecture][w1lec], [assignments][w1a]     |
+| 2    |  9:20h | http          | [lab][w2lab], [lecture][w2lec], [assignments][w2a]     |
+| 3    |  9:20h | express          | [lab][w3lab], [lecture][w3lec], [assignments][w3a]     |
+| 4    |  9:20h | requests       | [lab][w4lab], [lecture][w4lec], [assignments][w4a]     |
 | 5    |  9:20h | database      | [lab][w5lab], [lecture][w5lec], [assignments][w5a]     |
-| 6    | 13:20h | users         | [lab][w6lab], [lecture][w6lec], learn for assessment 1 |
-| 7    | 12:00h | style, review | [lab][w7lab], [assessment 1][a1], work on assessment 2 |
-| 8    | 12:00h | deploy        | [lab][w8lab], work on assessment 2                     |
-| 9    |        |               | [assessment 2][a2]                                     |
+| 6    | 13:20h | debug         | [lab][w6lab], [lecture][w6lec] |
+| 7    | 12:00h | deploy | [lab][w7lab],  work on prototype|
+| 8    | 12:00h | review        | [lab][w8lab], work on prototype                     |
+| 9    |        |               | [oral test][grading]                                     |
 
 
 
