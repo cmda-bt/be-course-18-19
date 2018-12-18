@@ -1,0 +1,29 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 1200 800"
+>
+  <title>Backend</title>
+  <style>svg { background-color: black }</style>
+  <defs>
+    <path id="tp">
+      <animate
+        attributeName="d"
+        from="m0,0 h0"
+        to="m0,0 h1200"
+        begin="1s"
+        dur="2s"
+        fill="freeze"
+      />
+    </path>
+  </defs>
+  <g transform="translate(200,400)">
+    <text
+      font-family="courier new, courier, monospace"
+      font-weight="bold"
+      font-size="100"
+      fill="#47ff47"
+      text-anchor="middle"
+    ><textPath text-anchor="start" xlink:href="#tp">🚀 tech: be(1)<tspan text-anchor="start">▋<animate attributeName="fill" values="transparent;#47ff47" calcMode="discrete" begin="1692ms" dur="1s" repeatCount="indefinite"/></tspan></textPath></text>
+  </g>
+</svg>
