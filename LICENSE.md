@@ -11,8 +11,8 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 
 This work is licensed under MIT.
 
-Original work Copyright (c) 2017 Titus Wormer [`t.e.wormer@hva.nl`][contact1]
-Modified work Copyright 2018 Danny de Vries [`d.de.vries4@hva.nl][contact2]
+Original work Copyright (c) 2017 Titus Wormer [`t.e.wormer@hva.nl`][contact1]  
+Modified work Copyright 2018 Danny de Vries [`d.de.vries4@hva.nl`][contact2]
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
