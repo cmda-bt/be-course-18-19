@@ -150,6 +150,11 @@ Staff and students of the Amsterdam University of Applied Sciences (Hogeschool
 van Amsterdam) are additionally bound by the [Regulation Undesirable
 Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 
+## License
+
+Unless stated otherwise, code is [MIT][] © [Titus Wormer][author1] and Modified by [Danny de Vries][author2],
+docs and images are [CC-BY-4.0][].
+
 [banner]: https://cdn.rawgit.com/cmda-be/logo/93c03f4/banner.svg
 [cmda]: https://github.com/cmda
 [dangit]: https://github.com/dandevri
@@ -176,6 +181,10 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 [coc]: code-of-conduct.md
 [ruc]: https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority
 [rog]: https://www.hva.nl/praktisch/algemeen/hva-breed/juridische-zaken/loket-beroep-bezwaar-en-klacht/regeling-ongewenst-gedrag/regeling-ongewenst-gedrag.html?origin=gbS4rg%2FDTZuxQ6lGVF%2BN1A
+[author1]: https://wooorm.com
+[author2]: https://dandevri.es
+[mit]: license.md#code
+[cc-by-4.0]: license.md#documentation-and-images
 
 
 
