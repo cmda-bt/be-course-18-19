@@ -1,3 +1,5 @@
+# ![Backend - Examples][banner-examples]
+
 # Examples
 
 ## Table of Contents
@@ -27,3 +29,5 @@
 </table>
 
 *Or search through all the work from the previous year: https://github.com/search?q=be-assessment-2*
+
+[banner-examples]: https://cmda-bt.github.io/be-course-18-19/assets/banner-examples.svg
