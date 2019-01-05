@@ -1,4 +1,4 @@
-# ![Backend - Course 2017-2018][banner]
+# ![Backend - Course 2018-2019][banner]
 
 ## Table of Contents
 
@@ -155,7 +155,7 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 Unless stated otherwise, code is [MIT][] © [Titus Wormer][author1] and Modified by [Danny de Vries][author2],
 docs and images are [CC-BY-4.0][].
 
-[banner]: https://raw.githubusercontent.com/cmda-bt/be-course-18-19/master/assets/banner.svg
+[banner]: https://cmda-bt.github.io/be-course-18-19/assets/banner.svg
 [cmda]: https://github.com/cmda
 [dangit]: https://github.com/dandevri
 [danweb]: https://github.com/dandevri

@@ -879,12 +879,23 @@
   />
   <text
     x="600"
-    y="400"
+    y="350"
     font-family="courier new, courier, monospace"
     font-weight="bold"
     font-size="120"
     fill="#47ff47"
     text-anchor="middle"
     alignment-baseline="middle"
-  >be()</text>
+  >be()
+  </text>
+    <text
+    x="580"
+    y="450"
+    font-family="courier new, courier, monospace"
+    font-weight="bold"
+    font-size="60"
+    fill="#47ff47"
+    text-anchor="middle"
+    alignment-baseline="middle"
+  >18/19</text>
 </svg>
