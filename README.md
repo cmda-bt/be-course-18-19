@@ -76,46 +76,41 @@ The 2 main goals in this course are that you’re able to:
 
 In practice you’ll learn to:
 
-* <a name="subgoal-5"></a>
+* <a name="subgoal-1"></a>
     Understand Node principles ([**week 1**][w1])
-*  <a name="subgoal-6"></a>
+*  <a name="subgoal-2"></a>
     Use packages from npm ([**week 1**][w1])
-* <a name="subgoal-7"></a>
+* <a name="subgoal-3"></a>
     Communicate over HTTP ([**week 2**][w2])
-* <a name="subgoal-8"></a>
+* <a name="subgoal-4"></a>
     Use web frameworks like express ([**week 2**][w2])
-* <a name="subgoal-9"></a>
+* <a name="subgoal-5"></a>
     Render data server-side ([**week 3**][w3])
-* <a name="subgoal-10"></a>
+* <a name="subgoal-6"></a>
     Upload data and files to servers ([**week 3**][w3])
-* <a name="subgoal-12"></a>
+* <a name="subgoal-7"></a>
     Respond with data from a server ([**week 4**][w4])
-* <a name="subgoal-11"></a>
+* <a name="subgoal-8"></a>
     Request data from clients ([**week 4**][w4])
-* <a name="subgoal-13"></a>
+* <a name="subgoal-9"></a>
     Connect to database with Mongoose ([**week 5**][w5])
-* <a name="subgoal-13"></a>
+* <a name="subgoal-10"></a>
     Get data from MongoDB ([**week 5**][w5])
-* <a name="subgoal-13"></a>
-    Debugging and error handling ([**week 6**][w6])
-* <a name="subgoal-13"></a>
-    Deploying your application ([**week 7**][w7]) 
+* <a name="subgoal-11"></a>
+    Debugging, error handling and deploying ([**week 6**][w6])
 
 The below table breaks down the general time needed per week.
 
-| Week | Effort | Topic         | Activities                                             |
-| ---- | -----: | ------------- | ------------------------------------------------------ |
-| 1    |  9:20h | node & npm  | [lab][w1lab], [lecture][w1lec], [assignments][w1a]     |
-| 2    |  9:20h | http          | [lab][w2lab], [lecture][w2lec], [assignments][w2a]     |
-| 3    |  9:20h | express          | [lab][w3lab], [lecture][w3lec], [assignments][w3a]     |
-| 4    |  9:20h | requests       | [lab][w4lab], [lecture][w4lec], [assignments][w4a]     |
-| 5    |  9:20h | database      | [lab][w5lab], [lecture][w5lec], [assignments][w5a]     |
-| 6    | 13:20h | debug         | [lab][w6lab], [lecture][w6lec] |
-| 7    | 12:00h | deploy | [lab][w7lab],  work on prototype|
-| 8    | 12:00h | review        | [lab][w8lab], work on prototype                     |
-| 9    |        |               | [oral test][grading]                                     |
-
-
+| Week | Effort | Topic            | Activities                                             |
+| ---- | -----: | ---------------- | ------------------------------------------------------ |
+| 0    |  NaN   | getting started  | [getting started][gs]                 |
+| 1    |  9:20h | node & npm       | [lab][w1lab], [lecture][w1lec], [assignments][w1a]     |
+| 2    |  9:20h | http & express   | [lab][w2lab], [lecture][w2lec], [assignments][w2a]     |
+| 3    |  9:20h | data             | [lab][w3lab], [lecture][w3lec], [assignments][w3a]     |
+| 4    |  9:20h | requests         | [lab][w4lab], [lecture][w4lec], [assignments][w4a]     |
+| 5    |  9:20h | database         | [lab][w5lab], [lecture][w5lec], [assignments][w5a]     |
+| 6    | 13:20h | debug & deploy   | [lab][w6lab], [lecture][w6lec], work on protype        |
+| 7    |  NaN   | oral test        | [oral test][grading]                                   |
 
 ## Grade
 
@@ -186,7 +181,7 @@ docs and images are [CC-BY-4.0][].
 [mit]: license.md#code
 [cc-by-4.0]: license.md#documentation-and-images
 
-
+[gs]: getting-started.md
 
 [w1]: week-1.md
 
