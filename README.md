@@ -155,7 +155,7 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 Unless stated otherwise, code is [MIT][] © [Titus Wormer][author1] and Modified by [Danny de Vries][author2],
 docs and images are [CC-BY-4.0][].
 
-[banner]: https://cdn.rawgit.com/cmda-be/logo/93c03f4/banner.svg
+[banner]: https://raw.githubusercontent.com/cmda-bt/be-course-18-19/master/assets/banner.svg
 [cmda]: https://github.com/cmda
 [dangit]: https://github.com/dandevri
 [danweb]: https://github.com/dandevri
