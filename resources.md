@@ -1,4 +1,4 @@
-# ![Backend - Resources][banner-resources]
+# ![Resources][banner-resources]
 
 # Resources
 
