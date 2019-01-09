@@ -178,7 +178,7 @@ Hand in your project in your repository on GitHub under your username. Push your
 
 [w1a]: week-1.md#assignments
 
-[learnyounode-cover]: images/learnyounode.jpg
+[learnyounode-cover]: assets/images/learnyounode.jpg
 
 [learnyounode-cover-source]: https://unsplash.com/photos/GX8KBbVmC6c
 
