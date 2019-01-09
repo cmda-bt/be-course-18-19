@@ -48,7 +48,7 @@ Git by running `apt-get install git` in Bash.
 *MacOS:*  
 Install Git from their website, by [downloading the latest release](https://git-scm.com).
 
-Connect Git and GitHub together like so:
+Connect Git and GitHub together inside of the **terminal** like so:
 
 ```sh
 git config --global user.name "Mona Lisa"
@@ -56,6 +56,31 @@ git config --global user.email "mona@lisa.com"
 ```
 
 Use the same email for Git as you used to sign up for GitHub.
+
+### Node
+
+Open your **terminal**, and install [nvm](https://github.com/creationix/nvm) like
+so:
+
+```sh
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash
+```
+
+Close and re-open your terminal and now run the following:
+
+```sh
+nvm install stable
+```
+
+Node is now installed (and npm with it).  You can check it by running:
+
+```sh
+node -v # Should print 9.4.0 (or a higher version)
+npm -v # Something like 5.6.0 (or a higher version)
+```
+
+You can use **nvm** to update Node in the future.  npm can update itself
+(`npm install -g npm`).
 
 ## Communication
 
