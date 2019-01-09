@@ -8,8 +8,7 @@
 
 *   [Inspiration](#inspiration)
 *   [Comic](#comic)
-*   [Lecture](#lecture)
-*   [Lab](#lab)
+*   [Slides](#slides)
 *   [Assignments](#assignments)
 *   [Homework](#homework)
 
@@ -26,7 +25,6 @@
 > Compiling by [**@xkcd**][comic-author].
 
 ## Slides
-
 *   [**Lecture-1**][slides-lecture]
 *   [**Lab-1**][slides-lab]
 
@@ -44,12 +42,12 @@ In this assignment you’ll learn the basics of Node.
 
 *   **Practice**
 *   **Time**: 3:00h
-*   **Goals**: [subgoal 1][s1], [subgoal 2][s2]
+*   **Goals**: subgoal 1, subgoal 2
 *   **Due**: before [lab 3][w3lab]
 
 #### Tips
 
-*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+*   Stuck?  See the [Bugs][bugs] section of the course readme to find a list of
     troubleshooting tips
 
 #### Description
@@ -84,7 +82,7 @@ Electron, and much more.  Feel free to peruse the
 
 You’re expected to spend about 6 hours on assignments outside of class. Submit your assignments before [lab 3][w3lab].
 
-### Feature - Package
+### Package (Feature)
 
 [![][package-cover]][package-cover-source]
 
@@ -97,12 +95,12 @@ You’ll learn the basics of node modules and npm packages and setup a boilerpla
 
 *   **Homework**
 *   **Time**: 6:00h
-*   **Goals**: [subgoal 1][s1], [subgoal 2][s2]
+*   **Goals**: subgoal 1, subgoal 2
 *   **Due**: before [lab 3][w3lab]
 
 #### Tips
 
-*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+*   Stuck?  See the [Bugs][bugs] section of the course readme to find a list of
     troubleshooting tips
 
 #### Description
@@ -151,16 +149,16 @@ Hand in your project in your repository on GitHub under your username. Push your
 
 **Create an issue:**  
 
-**Mark this assignment as complete by opening an issue on our [GitHub issue tracker][learnyounode-issue].** Include a link to your repository, what resources you used,and what part of your project you spend a lot of time on! Additionally, let us know what you thought of the homework, and give us any feedback. Your project will be reviewed and receive feedback, so expect people to read it,and be ready for tips and tops!
+**Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues].** Include a link to your repository, what resources you used, and what part of your project you spend a lot of time on! Additionally, let us know what you thought of the homework, and give us any feedback. Your project will be reviewed and receive feedback, so expect people to read it,and be ready for tips and tops!
 
 
 
 
-[bugs]: readme.md#bugs
+[bugs]: readme.md#communication
 
 [quote-author]: https://twitter.com/BrendanEich
 
-[inspiration-cover]: images/npmgraph.png
+[inspiration-cover]: assets/images/npmgraph.png
 
 [inspiration-link]: http://npm.anvaka.com/#/view/2d/express
 
@@ -176,13 +174,9 @@ Hand in your project in your repository on GitHub under your username. Push your
 
 [slides-lab]: https://docs.google.com/presentation/d/1vTD5Rm0aZW95BqOSekngZZkzsT6nghpPmkoFSAAr8Hw/edit?usp=sharing
 
-[w3lab]: week-3.md#lab
+[w3lab]: week-3.md
 
 [w1a]: week-1.md#assignments
-
-[s1]: readme.md#subgoal-1
-
-[s2]: readme.md#subgoal-2
 
 [learnyounode-cover]: images/learnyounode.jpg
 
@@ -190,7 +184,7 @@ Hand in your project in your repository on GitHub under your username. Push your
 
 [learnyounode-cover-author]: https://unsplash.com/@claybanks
 
-[learnyounode-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=learnyounode%20assignment&labels=week-2%2Cweek-2%3Alearnyounode
+[issues]: https://github.com/cmda-bt/be-course-18-19/issues/new/choose
 
 [learnyounode]: https://github.com/workshopper/learnyounode#readme
 
@@ -200,12 +194,10 @@ Hand in your project in your repository on GitHub under your username. Push your
 
 [workshoppers]: https://nodeschool.io/#workshopper-list
 
-[package-cover]: images/package.jpg
+[package-cover]: assets/images/package.jpg
 
 [package-cover-source]: https://unsplash.com/photos/fV4-DdSdcpI
 
 [package-cover-author]: https://unsplash.com/@kadh
-
-[package-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Package%20assignment&labels=week-2%2Cweek-2%3Apackage
 
 [npmjs]: https://www.npmjs.com/
