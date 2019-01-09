@@ -114,18 +114,21 @@ The below table breaks down the general time needed per week.
 
 ## Grade
 
-| Task                               |   Weight |
-| ---------------------------------- | -------: |
-| [Participation][grading]           |      10% 
-| [Prototype][grading] (oral test)   |      90% |
-| **Total**                          | **100%** |
+| Task                                |   Weight |
+| ----------------------------------  | -------: |
+| [Participation][grading]            |      10% |
+| [Assesment 1][grading] (oral test)  |      60% |
+| [Assesment 2][grading] (oral test)  |      30% |
+| **Total**                           | **100%** |
 
 
 ```js
-if (!participation && !prototype) {
+if (!participation && !a1 && !a2) {
   grade = 'GR'
+} else if (a1 < 5.5 || a2 < 5.5) {
+  grade = 1
 } else {
-  grade = (participation * 0.1) + (prototype * 0.9)
+  grade = (participation * 0.1) + (a1 * 0.6) + (a2 * 0.3)
 }
 ```
 
