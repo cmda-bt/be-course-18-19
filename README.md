@@ -112,6 +112,11 @@ The below table breaks down the general time needed per week.
 | 6    | 13:20h | debug & deploy   | [lab][w6lab], [lecture][w6lec], work on protype        |
 | 7    |  NaN   | oral test        | [oral test][grading]                                   |
 
+<details>
+    <summary>Schedule</summary>
+    <img src="assets/schedule.jpg" alt="Block tech schedule overview">
+</details>
+
 ## Grade
 
 | Task                                |   Weight |
