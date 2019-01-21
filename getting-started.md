@@ -57,6 +57,33 @@ git config --global user.email "mona@lisa.com"
 
 Use the same email for Git as you used to sign up for GitHub.
 
+### Node
+
+Open your terminal, and install [nvm](https://github.com/creationix/nvm) like
+so:
+
+```sh
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash
+```
+
+Close and re-open your terminal and now run the following:
+
+```sh
+nvm install stable
+```
+
+Node is now installed (and npm with it).  You can check it by running:
+
+```sh
+node -v # Should print 9.4.0 (or a higher version)
+npm -v # Something like 5.6.0 (or a higher version)
+```
+
+You can use **nvm** to update Node in the future.  npm can update itself
+(`npm install -g npm`).
+
+> You might encouter an [`eaccess`][eacces] problem if you installed Node using the [installer][installer]. We do not recommend using a Node installer but the Node version manager (nvm) as stated above, since the Node installation process installs npm in a directory with local permissions and can cause permissions errors when you run npm packages globally.
+
 ## Communication
 
 ### Slack
@@ -95,3 +122,5 @@ If you have questions (in this order):
 [synopsis]: #synopsis
 [slack]: https://cmda-tech.slack.com/
 [banner-guide]: https://cmda-bt.github.io/be-course-18-19/assets/banner-guide.svg
+[installer]: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+[eacces]: https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
