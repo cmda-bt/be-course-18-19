@@ -85,19 +85,19 @@ In practice you’ll learn to:
 * <a name="subgoal-4"></a>
     Use web frameworks like express ([**week 2**][w2])
 * <a name="subgoal-5"></a>
-    Render data server-side ([**week 3**][w3])
+    Render data server-side ([**week 2**][w2])
 * <a name="subgoal-6"></a>
     Upload data and files to servers ([**week 3**][w3])
 * <a name="subgoal-7"></a>
-    Respond with data from a server ([**week 4**][w4])
+    Respond with data from a server ([**week 3**][w4])
 * <a name="subgoal-8"></a>
-    Request data from clients ([**week 4**][w4])
+    Request data from clients ([**week 3**][w4])
 * <a name="subgoal-9"></a>
-    Connect to database with Mongoose ([**week 5**][w5])
+    Connect to database with Mongoose ([**week 4**][w4])
 * <a name="subgoal-10"></a>
-    Get data from MongoDB ([**week 5**][w5])
+    Get data from MongoDB ([**week 4**][w4])
 * <a name="subgoal-11"></a>
-    Debugging, error handling and deploying ([**week 6**][w6])
+    Debugging, error handling and deploying ([**week 5**][w5])
 
 The below table breaks down the general time needed per week.
 
@@ -106,10 +106,10 @@ The below table breaks down the general time needed per week.
 | 0    |  NaN   | getting started  | [getting started][gs]                 |
 | 1    |  9:20h | node & npm       | [lab][w1lab], [lecture][w1lec], [assignments][w1a]     |
 | 2    |  9:20h | http & express   | [lab][w2lab], [lecture][w2lec], [assignments][w2a]     |
-| 3    |  9:20h | data             | [lab][w3lab], [lecture][w3lec], [assignments][w3a]     |
-| 4    |  9:20h | requests         | [lab][w4lab], [lecture][w4lec], [assignments][w4a]     |
-| 5    |  9:20h | database         | [lab][w5lab], [lecture][w5lec], [assignments][w5a]     |
-| 6    | 13:20h | debug & deploy   | [lab][w6lab], [lecture][w6lec], work on protype        |
+| 3    |  9:20h | data & requests  | [lab][w3lab], [lecture][w3lec], [assignments][w3a]     |
+| 4    |  9:20h | databases        | [lab][w4lab], [lecture][w4lec], [assignments][w4a]     |
+| 5    |  9:20h | debug & deploy   | [lab][w5lab], [assignments][w5a], work on prototype    |
+| 6    | 13:20h | prototype        | [lab][w6lab],  work on protype                         |
 | 7    |  NaN   | oral test        | [oral test][grading]                                   |
 
 <details>
