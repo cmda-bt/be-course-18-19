@@ -112,20 +112,28 @@ The below table breaks down the general time needed per week.
 | 6    | 13:20h | debug & deploy   | [lab][w6lab], [lecture][w6lec], work on protype        |
 | 7    |  NaN   | oral test        | [oral test][grading]                                   |
 
+<details>
+    <summary>Schedule</summary>
+    <img src="assets/schedule.jpg" alt="Block tech schedule overview">
+</details>
+
 ## Grade
 
-| Task                               |   Weight |
-| ---------------------------------- | -------: |
-| [Participation][grading]           |      10% 
-| [Prototype][grading] (oral test)   |      90% |
-| **Total**                          | **100%** |
+| Task                                |   Weight |
+| ----------------------------------  | -------: |
+| [Participation][grading]            |      10% |
+| [Assesment 1][grading] (oral test)  |      60% |
+| [Assesment 2][grading] (oral test)  |      30% |
+| **Total**                           | **100%** |
 
 
 ```js
-if (!participation && !prototype) {
+if (!participation && !a1 && !a2) {
   grade = 'GR'
+} else if (a1 < 5.5 || a2 < 5.5) {
+  grade = 1
 } else {
-  grade = (participation * 0.1) + (prototype * 0.9)
+  grade = (participation * 0.1) + (a1 * 0.6) + (a2 * 0.3)
 }
 ```
 

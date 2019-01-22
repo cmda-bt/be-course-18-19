@@ -48,7 +48,7 @@ Git by running `apt-get install git` in Bash.
 *MacOS:*  
 Install Git from their website, by [downloading the latest release](https://git-scm.com).
 
-Connect Git and GitHub together like so:
+Connect Git and GitHub together inside of the **terminal** like so:
 
 ```sh
 git config --global user.name "Mona Lisa"
@@ -59,7 +59,7 @@ Use the same email for Git as you used to sign up for GitHub.
 
 ### Node
 
-Open your terminal, and install [nvm](https://github.com/creationix/nvm) like
+Open your **terminal**, and install [nvm](https://github.com/creationix/nvm) like
 so:
 
 ```sh
