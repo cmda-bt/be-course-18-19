@@ -1,4 +1,4 @@
-# Week 8
+# Week 6
 
 > Your documentation is complete when someone can use your module without ever
 > having to look at its code.
