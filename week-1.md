@@ -30,7 +30,7 @@
 
 ## Assignments
 
-#### learnyounode
+### learnyounode (practice)
 
 [![][learnyounode-cover]][learnyounode-cover-source]
 
@@ -128,8 +128,6 @@ If you have some time left and would like to dig further, you can:
 
 *   Add a [license](https://help.github.com/articles/licensing-a-repository/)
 *   Add a [`.gitignore`](https://help.github.com/articles/ignoring-files/)
-*   Add unit tests (tape, mocha, …)
-*   Add code linting (xo, standard, prettier, …)
 *   Add a [`.editorconfig`](http://editorconfig.org)
 
 …most of the previously linked to projects have the above in place, look at
@@ -142,15 +140,16 @@ them for examples.
 *   [Guide to Idiomatic Contributing](https://github.com/jonschlinkert/idiomatic-contributing)
 *   [Start your open source career](https://blog.algolia.com/start-your-open-source-career/)
 
-#### Hand in
+### Hand in
 
-**Push your changes:**  
-Hand in your project in your repository on GitHub under your username. Push your project (including at least `index.js`, `package.json`, and `readme.md`) to GitHub.
+1. **Push your changes:**  
+Hand in your progess in your repository on GitHub under your username. Make sure you document your
 
-**Create an issue:**  
+1. **Create an issue:**  
+Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template with the correct information. Make sure, in your repository, you include the resources used and update your `readme.md` and wiki with additional information.
 
-**Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues].** Include a link to your repository, what resources you used, and what part of your project you spend a lot of time on! Additionally, let us know what you thought of the homework, and give us any feedback. Your project will be reviewed and receive feedback, so expect people to read it,and be ready for tips and tops!
-
+3. **Feedback:**  
+Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your project will be reviewed and receive feedback, so expect people to read it, and be ready for tips and tops!
 
 
 
