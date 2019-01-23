@@ -1,12 +1,12 @@
 ---
-name: Package (Feature)
-about: You’ll learn the basics of node modules and npm packages and setup a boilerplate for your own feature.
-title: Package (Feature)
-labels: 'week-1, bt-1, "week-1:package"'
+name: Listing (Feature)
+about: You’ll apply your HTTP knowledge in Node by building a static file server with a little help from Express.
+title: Listing (Feature)
+labels: 'week-2, bt-1, "week-2:listing"'
 
 ---
 
-# Package
+# Listing
 
 ## Name
 `Add your name here`

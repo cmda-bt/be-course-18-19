@@ -1,12 +1,11 @@
 ---
-name: Package (Feature)
-about: You’ll learn the basics of node modules and npm packages and setup a boilerplate for your own feature.
-title: Package (Feature)
-labels: 'week-1, bt-1, "week-1:package"'
-
+name: Storage (Feature)
+about: In this assignment you’ll store the user input in a MongoDB database.
+title: Storage (Feature)
+labels: 'week-4, bt-1, "week-4:storage"'
 ---
 
-# Package
+# Data
 
 ## Name
 `Add your name here`

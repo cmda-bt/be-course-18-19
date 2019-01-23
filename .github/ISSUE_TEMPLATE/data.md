@@ -1,12 +1,11 @@
 ---
-name: Package (Feature)
-about: You’ll learn the basics of node modules and npm packages and setup a boilerplate for your own feature.
-title: Package (Feature)
-labels: 'week-1, bt-1, "week-1:package"'
-
+name: Data (Feature)
+about: Work on receiving user input and manipulating data for your own Job Story.
+title: Data (Feature)
+labels: 'week-3, bt-1, "week-3:data"'
 ---
 
-# Package
+# Data
 
 ## Name
 `Add your name here`
