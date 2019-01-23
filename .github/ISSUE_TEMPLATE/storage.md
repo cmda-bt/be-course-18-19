@@ -5,7 +5,7 @@ title: Storage (Feature)
 labels: 'week-4, bt-1, "week-4:storage"'
 ---
 
-# Data
+# Storage
 
 ## Name
 `Add your name here`
