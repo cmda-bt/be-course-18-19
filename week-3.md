@@ -110,7 +110,7 @@ Some examples to get you started, think about the movie example from the lecture
 ### Hand in
 
 1. **Push your changes:**  
-Hand in your progess in your repository on GitHub under your username. Make sure you document your
+Hand in your progess in your repository on GitHub under your username.
 
 1. **Create an issue:**  
 Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template with the correct information. Make sure, in your repository, you include the resources used and update your `readme.md` and wiki with additional information.
