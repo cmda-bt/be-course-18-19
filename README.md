@@ -108,8 +108,8 @@ The below table breaks down the general time needed per week.
 | 2    |  9:20h | http & express   | [lab][w2lab], [lecture][w2lec], [assignments][w2a]     |
 | 3    |  9:20h | data & requests  | [lab][w3lab], [lecture][w3lec], [assignments][w3a]     |
 | 4    |  9:20h | databases        | [lab][w4lab], [lecture][w4lec], [assignments][w4a]     |
-| 5    |  9:20h | debug & deploy   | [lab][w5lab], [assignments][w5a], work on prototype    |
-| 6    | 13:20h | prototype        | [lab][w6lab],  work on protype                         |
+| 5    |  9:20h | prototype        | [lab][w5lab],  work on prototype                       |
+| 6    | 13:20h | prototype        | [lab][w6lab],  work on prototype                       |
 | 7    |  NaN   | oral test        | [oral test][grading]                                   |
 
 <details>
@@ -227,10 +227,6 @@ docs and images are [CC-BY-4.0][].
 
 [w6lab]: week-6.md#lab
 
-[w7lab]: week-7.md#lab
-
-[w8lab]: week-8.md#lab
-
 [w1a]: week-1.md#assignments
 
 [w2a]: week-2.md#assignments
@@ -238,5 +234,3 @@ docs and images are [CC-BY-4.0][].
 [w3a]: week-3.md#assignments
 
 [w4a]: week-4.md#assignments
-
-[w5a]: week-5.md#assignments
