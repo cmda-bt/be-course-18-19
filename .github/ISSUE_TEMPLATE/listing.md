@@ -1,5 +1,5 @@
 ---
-name: Listing (Feature)
+name: Week 2 - Listing (Feature)
 about: You’ll apply your HTTP knowledge in Node by building a static file server with a little help from Express.
 title: Listing (Feature)
 labels: 'week-2, bt-1, week-2-listing'

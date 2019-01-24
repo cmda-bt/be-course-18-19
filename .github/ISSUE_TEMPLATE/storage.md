@@ -1,5 +1,5 @@
 ---
-name: Storage (Feature)
+name: Week 4 - Storage (Feature)
 about: In this assignment you’ll store the user input in a MongoDB database.
 title: Storage (Feature)
 labels: 'week-4, bt-1, week-4-storage'

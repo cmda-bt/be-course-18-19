@@ -1,5 +1,5 @@
 ---
-name: Introduction
+name: 👋 Introduction
 about: Introduce yourself.
 title: Introduction
 labels: 'week-1, bt-1, week-1-introduction'
