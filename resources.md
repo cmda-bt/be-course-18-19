@@ -30,6 +30,21 @@
 *   🆓 [How to npm](https://github.com/workshopper/how-to-npm)
     (**workshopper**) — Learn how to use and create npm modules.
 
+## 🛠 Toolbox
+*   [Nodemon](https://github.com/remy/nodemon)
+    (**node**) — Automatically restart the node application when file changes in the directory are detected.
+*   [HTTP Status Codes](https://httpstatuses.com/)
+    (**http**) — Easy to reference database of HTTP Status Codes with their definitions and helpful code references.
+*   [HTTP Cat](https://http.cat/)
+    (**http**) — Easy to reference database of HTTP Status Codes with images of cats.
+*   [Homebrew](https://brew.sh/)
+    (**macOS**) — The missing package manager for macOS
+*   [Google Drawings](https://docs.google.com/drawings)
+    (**databases**) — Draw database diagrams with Google Drawings.
+*   [MongoDB Compass](https://docs.google.com/drawings)
+    (**databases**) — GUI for Mongo
+*   [Postman](https://www.getpostman.com/)
+    (**APIs**) — Postman Simplifies API Development.
 
 [safari]: http://rps.hva.nl:2048/login?url=http://proquest.safaribooksonline.com/?uicode=hva
 [html-css]: https://learn.shayhowe.com/html-css/
