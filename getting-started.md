@@ -97,6 +97,11 @@ including your **real name**, **student number**, **class**, and **GitHub
 username**.
 We’ll use this info to link your GitHub and Slack to our administration files.
 
+> If you have technical questions feel free to ask them in Slack but keep the following in mind:
+> * Don't use screenshots but link to specific files or snippets in your repo.
+> * Accurately describe your problem and let teachers know which solutions you've  already tried.
+> * Ask questions in the `slackoverflow` channel instead of direct messaging teachers. Other students might have encountered the same problem and found a solution. 
+
 ### Introduction
 Introduce yourself to your teacher and class! Open an issue on our [GitHub issue tracker][issues]. You can pick what are called `issue templates`. Each assignment has a different template in which you can hand in your assignments for that week. This is also the place where Teachers and Student-Asistants will give you feedback.
 
