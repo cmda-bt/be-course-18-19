@@ -22,7 +22,7 @@ labels: 'week-1, bt-1, week-1-introduction'
 `What are your goals for this class?`
 
 ## Skill level
-`How would you describe you skill level? (e.g. beginner, intermediate, advanced)`
+`How would you describe you skill level? (e.g. beginner, intermediate, advanced, geek)`
 
 ## GitHub username
 `Add a link to your github page`
