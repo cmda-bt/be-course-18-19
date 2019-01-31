@@ -19,9 +19,9 @@ The course **Backend** is given at [**@CMDA**][cmda] in 2019 between
 *   **Course**: Backend
 *   **Coordinator**: [Danny de Vries][dangit]
 *   **Lecturers**:
-    [Danny de Vries][dangit] ([**@dandevri**][danweb]) (BT 3 / *tech2* and BT 4 / *tech4*) and
+    [Danny de Vries][dangit] ([**@dandevri**][danweb]) (_bt-1_ and _bt-3_) and
     [Laurens Aarnoudse][razgit] ([**@razpudding**][razweb])
-    (BT 4 / *tech3*)
+    (_bt-2_)
 *   **SIS**: Backend Development
 *   **Credit**: 3 ECTS
 *   **Academic year**: 2018-2019

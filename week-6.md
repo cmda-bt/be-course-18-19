@@ -43,7 +43,7 @@ Make sure you come to the lab prepared in advance:
 
 We'll do a live demo or recap a specific topic from previous lessons.
 
-#### Feedback
+#### Review
 
 During these classes we'll also be reviewing each others code. Make sure you made progress so you have something to get feedback on. 
 

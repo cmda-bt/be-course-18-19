@@ -29,6 +29,12 @@
     (**workshopper**) — Learn the basics of JavaScript. No previous programming experience required.
 *   🆓 [How to npm](https://github.com/workshopper/how-to-npm)
     (**workshopper**) — Learn how to use and create npm modules.
+*   🆓 [Server-side](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
+    (**course**) — Introduction to the server-side
+*   🆓 [Node-handbook](https://github.com/bcomnes/node-handbook)
+    (**course**) — Learn node the node way!
+
+
 
 ## 🛠 Toolbox
 *   [Nodemon](https://github.com/remy/nodemon)

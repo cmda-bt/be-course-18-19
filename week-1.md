@@ -77,6 +77,7 @@ Electron, and much more.  Feel free to peruse the
 *   [Node Guides](https://nodejs.org/en/docs/guides/)
 *   [The Art of Node](https://github.com/maxogden/art-of-node)
 *   [javascript.info](https://javascript.info)
+*   [Ryan Dahl: Original Node.js presentation](https://www.youtube.com/watch?v=ztspvPYybIY)
 
 ## Homework
 
@@ -119,10 +120,10 @@ or [`skin-tone`](https://github.com/sindresorhus/skin-tone/blob/master/package.j
 
 3. Add a `readme.md` to your repo, documenting the code: how to install it, how to use
 it (with examples), a license.
-For examples of `readme.md` files, see
+For examples  of `readme.md` files, see
 [`concat-stream`](https://github.com/maxogden/concat-stream#readme),
 [`ccount`](https://github.com/wooorm/ccount#readme),
-or [`normalize-url`](https://github.com/sindresorhus/normalize-url#readme).
+or [`normalize-url`](https://github.com/sindresorhus/normalize-url#readme). Here's a good article on [the art of `READMEs`](https://github.com/noffle/art-of-readme).
 
 If you have some time left and would like to dig further, you can:
 
@@ -139,6 +140,7 @@ them for examples.
 *   [Participating in Open Source](https://github.com/btford/participating-in-open-source)
 *   [Guide to Idiomatic Contributing](https://github.com/jonschlinkert/idiomatic-contributing)
 *   [Start your open source career](https://blog.algolia.com/start-your-open-source-career/)
+* [](https://www.youtube.com/watch?v=ztspvPYybIY)
 
 
 ### Hand in

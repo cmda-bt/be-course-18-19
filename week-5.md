@@ -45,9 +45,14 @@ Make sure you come to the lab prepared in advance:
 
 We'll do a live demo or recap a specific topic from previous lessons.
 
-#### Feedback
+#### Review
 
 During these classes we'll also be reviewing each others code. Make sure you made progress so you have something to get feedback on. 
+*   [Code Review Etiquette](https://css-tricks.com/code-review-etiquette/)
+    (**article**) — Some quick tips for improving a code review process
+*   [The art of Readme](https://github.com/noffle/art-of-readme)
+    (**article**) — Learn the art of writing quality READMEs. 
+
 
 #### Tips
 
