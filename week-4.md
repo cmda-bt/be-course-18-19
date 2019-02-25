@@ -58,10 +58,9 @@ In this assignment you’ll store the user input in a `MongoDB` database.
 
 Take ± 6 hours to add an `MongoDB` database to your project.
 
-Commit your work early and often.
-Push your work to GitHub.
-Don’t worry if it’s not perfect.
-Try and get as far as you can.
+All of your data is going to be stored in a database called MongoDB. You have two options: go with a database as a service [DBaaS](https://www.mongodb.com/cloud/atlas) or use [MongoDB locally](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/). You can use a [MongoDB GUI](https://www.mongodb.com/products/compass) to see and manipulate your data.
+
+* Store sensitive information such as your database URI, password and username in `.env`
 
 **Research**  
 Include a diagram in your readme that explains how the database works
@@ -70,6 +69,11 @@ Include a diagram in your readme that explains how the database works
 **Build**
 
 ### Hand in
+
+Commit your work early and often.
+Push your work to GitHub.
+Don’t worry if it’s not perfect.
+Try and get as far as you can.
 
 1. **Push your changes:**  
 Hand in your progess in your repository on GitHub under your username.

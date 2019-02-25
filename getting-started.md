@@ -83,6 +83,20 @@ You can use **nvm** to update Node in the future.  npm can update itself
 
 > You might encouter an [`eaccess`][eacces] problem if you installed Node using the [installer][installer]. We do not recommend using a Node installer but the Node version manager (nvm) as stated above, since the Node installation process installs npm in a directory with local permissions and can cause permissions errors when you run npm packages globally.
 
+## MongoDB
+
+Follow the [official manual](https://docs.mongodb.com/manual/administration/install-community/) for installation on macOS and Windows. **Make sure you create a folder for MongoDB to store data and specify this path when starting `mongod`.** 
+
+```
+mongod --dbpath <path to data directory>
+```
+
+Check your installation and version with:
+
+```sh
+mongod --version # Should print 3.6 (or a higher version)
+```
+
 ## Communication
 
 ### Slack
