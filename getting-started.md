@@ -85,11 +85,7 @@ You can use **nvm** to update Node in the future.  npm can update itself
 
 ## MongoDB
 
-Follow the [official manual](https://docs.mongodb.com/manual/administration/install-community/) for installation on macOS and Windows. **Make sure you create a folder for MongoDB to store data and specify this path when starting `mongod`.** 
-
-```
-mongod --dbpath <path to data directory>
-```
+Follow the [official manual](https://docs.mongodb.com/manual/administration/install-community/) for installation on macOS and Windows. 
 
 Check your installation and version with:
 

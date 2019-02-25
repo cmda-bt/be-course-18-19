@@ -62,6 +62,18 @@ All of your data is going to be stored in a database called MongoDB. You have tw
 
 * Store sensitive information such as your database URI, password and username in `.env`
 
+**Local**
+
+_When you are running locally, make sure you create a folder for MongoDB to store data and specify this path when starting `mongod`._
+
+You can store this `./data` folder inside of your repository but make sure to put it in your `.gitignore`.
+
+```
+mongod --dbpath <path to data directory>
+```
+
+
+
 **Research**  
 Include a diagram in your readme that explains how the database works
 (**hint**: [Google Drawings][drawings]).
