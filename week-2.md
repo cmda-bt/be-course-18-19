@@ -103,7 +103,7 @@ file server with a little help from Express.
 
 #### Description
 
-Take ± 5 hours to create a server that handles routes and serves static files in Node.js.
+Take ± 5 hours to create a server that handles routes and serves static files in Node.js. Feel free to write your server from scratch if you feel adventurous, otherwise [`express`](https://expressjs.com/) is your best option. 
 
 Your static server should:
 
