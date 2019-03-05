@@ -160,7 +160,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 
 [issues]: https://github.com/cmda-bt/be-course-18-19/issues/new/choose
 
-[transfer]: https://github.com/cmda-be/transfer
+[transfer]: https://github.com/cmda-bt/be-course-18-19/tree/master/examples/transfer
 
 [transfer-cover]: assets/images/transfer.jpg
 
