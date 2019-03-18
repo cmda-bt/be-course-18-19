@@ -103,7 +103,7 @@ file server with a little help from Express.
 
 #### Description
 
-Take ± 5 hours to create a server that handles routes and serves static files in Node.js.
+Take ± 5 hours to create a server that handles routes and serves static files in Node.js. Feel free to write your server from scratch if you feel adventurous, otherwise [`express`](https://expressjs.com/) is your best option. 
 
 Your static server should:
 
@@ -160,7 +160,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 
 [issues]: https://github.com/cmda-bt/be-course-18-19/issues/new/choose
 
-[transfer]: https://github.com/cmda-be/transfer
+[transfer]: https://github.com/cmda-bt/be-course-18-19/tree/master/examples/transfer
 
 [transfer-cover]: assets/images/transfer.jpg
 

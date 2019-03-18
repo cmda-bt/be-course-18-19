@@ -92,12 +92,12 @@ Work on receiving user input and manipulating data for your own Job Story.
 
 #### Tips
 
-*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+*   Stuck?  See the [Bugs](https://github.com/cmda-bt/be-course-18-19#communication) section of the course readme to find a list of
     troubleshooting tips
 
 #### Description
 
-Take ± 6 hours to build out a feature were you'll receive **user input** and manipulate the data. This is quite a vague assignment and the end result will be specific to your Job Story. Make sure you at least spend the alloted hours on this. Commit your work early and often. Push your work to GitHub. Don’t worry if it’s not perfect. Try and get as far as you can.
+Take ± 6 hours to build out a feature were you'll receive **user input** and manipulate the data. This is quite a vague assignment and the end result will be specific to your Job Story. Make sure you at least spend the alloted hours on this. 
 
 Some examples to get you started, think about the movie example from the lecture:
 
@@ -105,6 +105,15 @@ Some examples to get you started, think about the movie example from the lecture
 *   Add new users to an overview list of people
 *   Make users enter their hobbies and interests
 *   Etc.
+
+Try to break down in small functionalities and think about what steps you need to complete.
+* How do you render (send) data inside of your template?
+* Do you need to create a form as a `partial` with the corresonpding `attributes`?
+* What type of request do you need to send? Is a `post` needed?
+* Any packages from `npm` you can use? Maybe [`slug`](https://www.npmjs.com/package/slug), [`body-parser`](https://www.npmjs.com/package/multer) or [`multer`](https://www.npmjs.com/package/multer)?
+
+
+Commit your work early and often. Push your work to GitHub. Don’t worry if it’s not perfect. Try and get as far as you can.
 
 
 ### Hand in

@@ -125,14 +125,19 @@ For examples  of `readme.md` files, see
 [`ccount`](https://github.com/wooorm/ccount#readme),
 or [`normalize-url`](https://github.com/sindresorhus/normalize-url#readme). Here's a good article on [the art of `READMEs`](https://github.com/noffle/art-of-readme).
 
-If you have some time left and would like to dig further, you can:
+4. Add a [license](https://help.github.com/articles/licensing-a-repository/) to your repository. What are the differences between each license?
 
-*   Add a [license](https://help.github.com/articles/licensing-a-repository/)
+If you have some time left and would like to dig further you can:
+
 *   Add a [`.gitignore`](https://help.github.com/articles/ignoring-files/)
 *   Add a [`.editorconfig`](http://editorconfig.org)
 
 …most of the previously linked to projects have the above in place, look at
 them for examples.
+
+Ask yourself upon completion:
+* What's the difference between `dependencies` and `devDependencies`?
+* What are the differences between `global` and `local` dependencies?
 
 #### Extra resources
 
