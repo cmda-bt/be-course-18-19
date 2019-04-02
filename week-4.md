@@ -30,6 +30,11 @@
 *   [**Lecture-4**][slides-lecture]
 *   [**Lab-4**][slides-lab]
 
+### Theory
+* [_Where to host a Node.js app_](https://nodejs.dev/where-to-host-a-nodejs-app)
+* [_Error handling in Node.js_](https://nodejs.dev/error-handling-in-nodejs)
+* [_The difference between development and production_](https://nodejs.dev/nodejs-the-difference-between-development-and-production)
+
 ## Assignments
 
 ### Alternatives

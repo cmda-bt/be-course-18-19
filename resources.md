@@ -33,6 +33,8 @@
     (**course**) — Introduction to the server-side
 *   🆓 [Node-handbook](https://github.com/bcomnes/node-handbook)
     (**course**) — Learn node the node way!
+*   🆓 [Nodejs.dev](https://nodejs.dev/)
+    (**course**) — Introduction to Node.js!
 
 
 

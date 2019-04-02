@@ -30,6 +30,10 @@
 *   [**Lecture-2**][slides-lecture]
 *   [**Lab-2**][slides-lab]
 
+### Theory
+* [_How to use or execute a package installed using npm_](https://nodejs.dev/how-to-use-or-execute-a-package-installed-using-npm)
+* [_npm global or local packages_](https://nodejs.dev/npm-global-or-local-packages)
+
 ## Assignments
 
 ### Transfer (practice)
@@ -103,7 +107,7 @@ file server with a little help from Express.
 
 #### Description
 
-Take ± 5 hours to create a server that handles routes and serves static files in Node.js. Feel free to write your server from scratch if you feel adventurous, otherwise [`express`](https://expressjs.com/) is your best option. 
+Take ± 5 hours to create a server that handles routes and serves static files in Node.js. Feel free to write your server from scratch if you feel adventurous, otherwise [`express`](https://expressjs.com/) is your best option.
 
 Your static server should:
 
@@ -125,13 +129,13 @@ Your static server should:
 
 ### Hand in
 
-1. **Push your changes:**  
+1. **Push your changes:**
 Hand in your progess in your repository on GitHub under your username.
 
-1. **Create an issue:**  
+1. **Create an issue:**
 Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template with the correct information. Make sure, in your repository, you include the resources used and update your `readme.md` and wiki with additional information.
 
-3. **Feedback:**  
+3. **Feedback:**
 Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your project will be reviewed and receive feedback, so expect people to read it, and be ready for tips and tops!
 
 

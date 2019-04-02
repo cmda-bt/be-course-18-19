@@ -28,6 +28,13 @@
 *   [**Lecture-1**][slides-lecture]
 *   [**Lab-1**][slides-lab]
 
+### Theory
+* [_Introduction to Node.js_](https://nodejs.dev/introduction-to-nodejs)
+* [_Differences between Node.js and the Browser_](https://nodejs.dev/differences-between-nodejs-and-the-browser)
+* [_The V8 JavaScript engine_](https://nodejs.dev/the-v8-javascript-engine)
+* [_An introduction to the npm package manager_](https://nodejs.dev/an-introduction-to-the-npm-package-manager)
+
+
 ## Assignments
 
 ### learnyounode (practice)
@@ -145,18 +152,17 @@ Ask yourself upon completion:
 *   [Participating in Open Source](https://github.com/btford/participating-in-open-source)
 *   [Guide to Idiomatic Contributing](https://github.com/jonschlinkert/idiomatic-contributing)
 *   [Start your open source career](https://blog.algolia.com/start-your-open-source-career/)
-* [](https://www.youtube.com/watch?v=ztspvPYybIY)
 
 
 ### Hand in
 
-1. **Push your changes:**  
+1. **Push your changes:**
 Hand in your progess in your repository on GitHub under your username.
 
-1. **Create an issue:**  
+1. **Create an issue:**
 Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template with the correct information. Make sure, in your repository, you include the resources used and update your `readme.md` and wiki with additional information.
 
-3. **Feedback:**  
+3. **Feedback:**
 Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your project will be reviewed and receive feedback, so expect people to read it, and be ready for tips and tops!
 
 
