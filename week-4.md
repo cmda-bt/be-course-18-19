@@ -103,6 +103,35 @@ You can use the [`mongodb`](https://www.npmjs.com/package/mongodb) package insid
 Include a diagram in your readme that explains how the database works
 (**hint**: [Google Drawings][drawings]).
 
+### Deploy (feature)
+
+Deploy your node app to the web!
+
+#### Synopsis
+
+*   **Homework**
+*   **Time**: 2:00h
+*   **Goals**: subgoal 11,
+*   **Due**: before lab 5
+
+#### Tips
+
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
+
+#### Description
+
+Take ± 2 hours to deploy your web app to a _hosting service_. People will actually be able to publicly access your app using an _url_ in their browser. There are [lots of different options](https://nodejs.dev/learn/where-to-host-a-nodejs-app) but we recommend using the following:
+* [Glitch](https://glitch.com/): Good for demo purposes but there are some [_restrictions_](https://glitch.com/faq#restrictions).
+* [Zeit Now](https://zeit.co/now): By far the easiest and fastest way to deploy.
+* Platform As A Service: [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs): Needs more config then Zeit but is more powerful.
+* Virtual Private Server [DigitalOcean](https://www.digitalocean.com/): The most hardcore way to-go. They just provide an empty linux and you need to set-up on your own.
+
+##### Preparation
+* Make sure you have put your variables `.env` in `.gitignore`. Most hosting providers won't look for an `.env` file, you'll have to manually type them into your [configuration](https://devcenter.heroku.com/articles/config-vars#using-the-heroku-dashboard).
+* `node_modules` should also be in your `.gitignore`.
+* Update your readme with a description of your app, the latest changes and how-to install
+
 ### Hand in
 
 Commit your work early and often.

@@ -28,12 +28,11 @@
 *   [**Lab-6**][slides-lab]
 
 ## Lab
-
- You can continue working on your prototype for the final assesment.
+There are no assignments due next week (or any future week). You can continue working on your prototype for the final assesment.
 
 #### Preparation
 
-Make sure you come to the lab prepared in advance: 
+Make sure you come to the lab prepared in advance:
 
 * Know which questions you want to ask.
 * If you have a bug, investigate and try to make a detailed explanation of your problem.
@@ -45,7 +44,7 @@ We'll do a live demo or recap a specific topic from previous lessons.
 
 #### Review
 
-During these classes we'll also be reviewing each others code. Make sure you made progress so you have something to get feedback on. 
+During these classes we'll also be reviewing each others code. Make sure you made progress so you have something to get feedback on.
 
 #### Tips
 
@@ -53,10 +52,6 @@ During these classes we'll also be reviewing each others code. Make sure you mad
     troubleshooting tips
 *   [How to think like a programmer by Richard Reis](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 * [Rubber Duck Debugging](https://rubberduckdebugging.com/)
-
-### Hand in
-
-There are no assignments due next week (or any future week). Hand in your progess in your repository on GitHub under your username. 
 
 [slides-lab]: https://docs.google.com/presentation/d/1QKkcyzQzQFmcaDXrZkER4_B458EtxV-DEYDE3V1gAY4/edit?usp=sharing
 
