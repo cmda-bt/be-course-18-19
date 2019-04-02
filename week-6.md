@@ -16,6 +16,7 @@
 
 *   [Comic](#comic)
 *   [Slides](#slides)
+*   [Survey](#survey)
 *   [Lab](#lab)
 
 ## Comic
@@ -26,6 +27,9 @@
 
 ## Slides
 *   [**Lab-6**][slides-lab]
+
+## Survey
+We’d like to make this course better, much better, and we’re super interested in what you think of this course! You’d help us enormously by filling out [this survey](https://forms.gle/tdf2XjgJGao2FZC88). It should take about **15 minutes** and it can be filled in completely _anonymous_.
 
 ## Lab
 There are no assignments due next week (or any future week). You can continue working on your prototype for the final assesment.
