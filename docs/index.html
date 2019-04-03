@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
+  <title>Back-end — CMD Amsterdam</title>
+</head>
+<body>
+    <style type="text/css">
+      :root {
+       --black: #000;
+       --green: #47ff47; 
+       --white: #fff;
+      }
+      body {
+        background-color: var(--black);
+        background-image: url("data:image/svg+xml,%3Csvg width='12' height='16' viewBox='0 0 12 16' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 .99C4 .445 4.444 0 5 0c.552 0 1 .45 1 .99v4.02C6 5.555 5.556 6 5 6c-.552 0-1-.45-1-.99V.99zm6 8c0-.546.444-.99 1-.99.552 0 1 .45 1 .99v4.02c0 .546-.444.99-1 .99-.552 0-1-.45-1-.99V8.99z' fill='%23ffffff' fill-opacity='0.1' fill-rule='evenodd'/%3E%3C/svg%3E");
+        color: var(--white);
+        font-family: monospace;
+        font-size: 1.5em;
+        line-height: 1.5;
+      }
+      main {
+        max-width: 800px;
+        margin: 10vh auto;
+      }
+      header {
+        background: var(--green);
+        color: var(--black);
+        height: 30vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      h1 { font-size: 5em; }
+      h2 { font-size: 2em; margin-top: 1.5em}
+      ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        list-style-type: none;
+        padding: 0;
+      }
+      img {
+        max-width: 100%;
+      }
+
+      p img {
+        float: left;
+        border-radius: 100%;
+        border: 2px solid var(--white);
+        margin-right: 1em;
+      }
+
+      ul img {
+        border: 2px solid var(--white);
+        margin-top: 2em;
+      }
+      .button {
+        background: var(--white);
+        color: var(--black);
+        padding: 1em;
+      }
+
+      .examples img {
+        max-width: 25vh;
+      }
+
+      a, a:visited {
+        color: var(--green);
+      }
+
+      footer {
+        font-style: italic;
+      }
+      </style>
+      <a href="https://github.com/cmda-bt/be-course-18-19" class="github-corner" aria-label="View source on GitHub"><svg width="250" height="250" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: fixed; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+  <header>
+    <h1>Back-end</h1>
+  </header>
+  <main>
+    <h2>Description</h2>
+    <p>
+      In Backend we peek behind the curtains and inspect what’s behind the web. You build web apps with <a href="https://nodejs.dev/">Node.js</a>, communicate with HTTP, and store data in a database with <a href="https://www.mongodb.com/">MongoDB</a>. In this course you’ll advance your web dev skills. You’ll learn to use computers to actually make what you design work: people can actually fill in forms, like things, and upload files.
+    </p>
+    <h2>Program</h2>
+    <p>This course is given at <a href="https://www.cmd-amsterdam.nl/english/">Communication and Multimedia Design</a>, a design bachelor focused on interactive digital products and services. CMD is part of the Faculty of Digital Media and Creative Industries at the <a href="https://www.amsterdamuas.com/">Amsterdam University of Applied Sciences.</a></p>
+    <h2>Gallery</h2>
+    <ul class="gallery">
+      <li><img src="img/gallery-class-2.jpg" alt=""></li>
+      <li><img src="img/gallery-party.jpg" alt=""></li>
+    </ul>
+    <h2>Examples</h2>
+    <ul class="examples">
+      <li><a href="https://github.com/MartijnKeesmaat/dating-app"><img src="img/example-martijn.jpg" alt="Martijn Keesmaat Example"></a></li>
+      <li><a href="https://github.com/Kalemis/project-tech"><img src="img/example-artemis.jpg" alt="Artemis Kalemis Example"></a></li>
+      <li><a href="https://github.com/cenikk/datingapp"><img src="img/example-kaan.jpg" alt="Kaan Cenikk Example"></a></li>
+      <li><a href="https://github.com/Rowin206/DatingApp"><img src="img/example-rowin.jpg" alt="Rowin van Amsterdam Example"></a></li>
+    </ul>
+    <h2>Teachers</h2>
+    <p>
+      <img src="img/laurens.jpg" alt="">
+      <a href="https://github.com/razpudding">Laurens</a> is an all-round creative developer. He teaches at CMD, but also helps refugees learn new skills and prepare themselves for a new working life in CS at HackYourFuture.
+    </p>
+    <p>
+      <img src="img/danny.jpg" alt="">
+      <a href="https://github.com/dandevri">Danny</a> is an front-end designer. He teaches in the technical courses and does web animation in the minor visual interace design.
+    </p>
+    <h2>Speakers</h2>
+    <ul class="speakers">
+        <li><a href="https://twitter.com/aspittel"><img src="img/speaker-ali.jpg" alt="Ali Spittel"></a></li>
+        <li><a href="https://github.com/MartijnNieuwenhuizenl"><img src="img/speaker-martijn.jpg" alt="Martijn Nieuwenhuizen"></a></li>
+        <li><a href="https://twitter.com/al_bert_brand"><img src="img/speaker-albert.jpg" alt="Albert Brand"></a></li>
+        <li><a href="https://peterpeerdeman.nl/"><img src="img/speaker-peter.jpg" alt="Peter Peerdeman"></a></li>
+      </ul>
+    <h2>Conduct</h2>
+    <p>This course has a <a href="https://github.com/cmda-bt/be-course-18-19/blob/master/code-of-conduct.md">Code of Conduct</a>. Anyone interacting with this repository, organisation, or community is bound by it. Staff and students of the Amsterdam University of Applied Sciences (Hogeschool van Amsterdam) are additionally bound by the <a href="https://www.amsterdamuas.com/practical-matters/general/auas/legal-affairs/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority">Regulation Undesirable Conduct</a> (Regeling Ongewenst Gedrag).</p>
+    <footer>
+       MIT © Danny de Vries, docs and images are CC-BY-4.0.
+    </footer>
+  </main>
+
+</body>
+</html>
