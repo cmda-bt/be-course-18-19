@@ -50,7 +50,6 @@ This is an oral test where you individually present the feature you created. You
 
 * [Learning goals][goals]
 * [Subgoals][goals]
-* [Competences][goals]
 
 > [Rubic of Assesment 1][a1]
 
@@ -59,7 +58,6 @@ This is an oral test where you present your prototype with your team. You will s
 
 * [Learning goals][goals]
 * [Subgoals][goals]
-* [Competences][goals]
 
 > [Rubic of Assesment 2][a2]
 

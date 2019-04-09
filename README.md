@@ -67,10 +67,13 @@ If you have questions:
 
 #### Main goals
 
-The 2 main goals in this course are that you’re able to:
+The main goals in this course:
 
-*   Build web apps with Node
-*   Store data in a database
+*   You can build web apps with Node
+*   You can store data in a database
+*   You can use packages from npm
+*   You can render data server-side with templating
+*   You can communicate over http
 
 #### Sub goals
 
