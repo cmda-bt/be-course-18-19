@@ -57,6 +57,18 @@ During these classes we'll also be reviewing each others code. Make sure you mad
 *   [How to think like a programmer by Richard Reis](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 * [Rubber Duck Debugging](https://rubberduckdebugging.com/)
 
+## Homework
+
+Next week [**assessment 2**](/assessments/a2.md) will take place. Make sure you come to the assesment prepared in advance:
+* Have a look at the [rubic](/grading.md) and **grade yourself**. Bring the filled in rubic to the oral test.
+* Check out the [checklist](/grading.md) below the rubic. Did you forget anything?
+
+Presenting your work is a skill all by itself, make sure you prepare yourself properly. The best way is to treat it as [public speaking](https://abookapart.com/products/demystifying-public-speaking) and there are [many books](https://be.noti.st/2018/recommended-books-for-public-speakers) on public speaking available.
+* Bring your own computer and a charger.
+* Have the latest version of your code ready in your editor.
+* Open up your docs inside of your GitHub repository.
+* Have a live version up and running.
+
 [slides-lab]: https://docs.google.com/presentation/d/1QKkcyzQzQFmcaDXrZkER4_B458EtxV-DEYDE3V1gAY4/edit?usp=sharing
 
 [bugs]: readme.md#bugs
