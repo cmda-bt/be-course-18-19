@@ -100,7 +100,7 @@ In practice you’ll learn to:
 * <a name="subgoal-10"></a>
     Get data from MongoDB ([**week 4**][w4])
 * <a name="subgoal-11"></a>
-    Debugging, error handling and deploying ([**week 5**][w5])
+    Debugging, error handling and deploying ([**week 4**][w4])
 
 The below table breaks down the general time needed per week.
 
@@ -111,9 +111,9 @@ The below table breaks down the general time needed per week.
 | 2    |  9:20h | http & express   | [lab][w2lab], [lecture][w2lec], [assignments][w2a]     |
 | 3    |  9:20h | data & requests  | [lab][w3lab], [lecture][w3lec], [assignments][w3a]     |
 | 4    |  9:20h | databases        | [lab][w4lab], [lecture][w4lec], [assignments][w4a]     |
-| 5    |  9:20h | prototype        | [lab][w5lab],  work on prototype                       |
+| 5    |  NaN   | assessment 1     | [a1 (oral test)][grading]                              |
 | 6    | 13:20h | prototype        | [lab][w6lab],  work on prototype                       |
-| 7    |  NaN   | oral test        | [oral test][grading]                                   |
+| 7    |  NaN   | assessment 2     | [a2 (oral test)][grading]                              |
 
 <details>
     <summary>Schedule</summary>
@@ -125,8 +125,8 @@ The below table breaks down the general time needed per week.
 | Task                                |   Weight |
 | ----------------------------------  | -------: |
 | [Participation][grading]            |      10% |
-| [Assesment 1][grading] (oral test)  |      60% |
-| [Assesment 2][grading] (oral test)  |      30% |
+| [Assessment 1][grading] (oral test)  |      60% |
+| [Assessment 2][grading] (oral test)  |      30% |
 | **Total**                           | **100%** |
 
 
