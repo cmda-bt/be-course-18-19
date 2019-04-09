@@ -36,8 +36,6 @@
 *   🆓 [Nodejs.dev](https://nodejs.dev/)
     (**course**) — Introduction to Node.js!
 
-
-
 ## 🛠 Toolbox
 *   [Nodemon](https://github.com/remy/nodemon)
     (**node**) — Automatically restart the node application when file changes in the directory are detected.
@@ -54,14 +52,21 @@
 *   [Postman](https://www.getpostman.com/)
     (**APIs**) — Postman Simplifies API Development.
 
+## Products
+* _Interactive Application_
+* _Prototype_
+* _Flows or wireframes_
+* _Sitemap_
+
+## Methods
+* [Pitch](http://www.cmdmethods.nl/cards/showroom/pitch)
+* [Prototype](http://www.cmdmethods.nl/cards/stepping-stones/prototype)
+* [Prototyping](http://www.cmdmethods.nl/cards/workshop/prototyping)
+* [Usability Testing](http://www.cmdmethods.nl/cards/lab/usability-testing)
+* [Best, good & bad practices](www.cmdmethods.nl/cards/library/best-good-and-bad-practices)
+* [Peer Review](www.cmdmethods.nl/cards/showroom/peer-review)
+* [Product Quality Review](http://www.cmdmethods.nl/cards/showroom/quality-review)
+
 [safari]: http://rps.hva.nl:2048/login?url=http://proquest.safaribooksonline.com/?uicode=hva
 [html-css]: https://learn.shayhowe.com/html-css/
-
-[ydkjs-1]: https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going
-[ydkjs-2]: https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures
-[ydkjs-3]: https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes
-[ydkjs-4]: https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar
-[ydkjs-5]: https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance
-[ydkjs-6]: https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond
-
 [banner-resources]: https://cmda-bt.github.io/be-course-18-19/assets/banner-resources.svg
