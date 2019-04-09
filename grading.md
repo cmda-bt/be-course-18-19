@@ -48,18 +48,18 @@ Participation makes up 10% of your final grade. It’s calculated based on how s
 ### Assesment 1 - Individual
 This is an oral test where you individually present the feature you created. You will show you can create a quality project in which you apply the subject matter of this course and that you understand it. You will answer questions in such a way as to demonstrate sufficient knowledge of our goals.
 
-* [Learning goals](/#goals)
-* [Subgoals](/#goals)
-* [Competences](/#goals)
+* [Learning goals][goals]
+* [Subgoals][goals]
+* [Competences][goals]
 
 > [Rubic of Assesment 1][a1]
 
 ### Assesment 2 - Team
 This is an oral test where you present your prototype with your team. You will show how you contributed to the project and explain if you reached your own goals you've set at the beginning of the project.
 
-* [Learning goals](/#goals)
-* [Subgoals](/#goals)
-* [Competences](/#goals)
+* [Learning goals][goals]
+* [Subgoals][goals]
+* [Competences][goals]
 
 > [Rubic of Assesment 2][a2]
 
@@ -106,3 +106,4 @@ The manner in which you cite your sources depends. The most widely used style at
 [a2]: assesments/a2.md
 [banner]: https://cmda-bt.github.io/be-course-18-19/assets/banner-grading.svg
 [grading]: grading.md
+[goals]: https://github.com/cmda-bt/be-course-18-19#goals
