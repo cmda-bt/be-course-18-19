@@ -10,6 +10,9 @@ labels: 'week-4, week-4-storage'
 ## Name
 <!-- Add your name here -->
 
+## Class
+<!-- Add your class here -->
+
 ## Repo link
 <!-- Include a link to your repository -->
 
