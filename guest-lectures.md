@@ -1,6 +1,6 @@
 # ![Guest lectures][banner-guests]
 
-Every week we have the pleasure to have a guest speaker talk about _back-end_ related topics, either in the form of a _short talk, guest lecture or Q&A session_. We have speakers from [Dev.to][dev.to], [Lifely][lifely], [Mirabeau][mirabeau], [Xebia][xebia] and many great freelancers.
+Every week we have the pleasure to have a guest speaker talk about _back-end_ related topics, either in the form of a _short talk, guest lecture or Q&A session_. We have speakers from [Dev.to][dev.to], [Lifely][lifely], [Mirabeau][mirabeau], [Xebia][xebia], [CLEVER°FRANKE][clever], [Voorhoede][voorhoede], [Awkward][awkward] and many great freelancers.
 
 ## Schedule
 
@@ -10,6 +10,9 @@ Every week we have the pleasure to have a guest speaker talk about _back-end_ re
 | 14-02-19 | [Martijn Nieuwenhuizen][speaker-martijn]  | Back-end vision Mirabeau           |
 | 15-02-19 | [Albert Brand][speaker-albert]  | History and Future of JavaScript             |
 | 04-03-19 | [Peter Peerdeman][speaker-peter]  | Datamodels, APIs and GraphQL               |
+| 15-04-19 | [Merlijn Vos][speaker-merlijn]  | Event Loops & Call Stack               |
+| 06-05-19 | [Frank Warnaar & Sjoerd Beentjes][speaker-frank]  | Jamstack|
+| 27-06-19 | [Timon van Spronsen][speaker-timon]  | Progressive Web Apps|
 
 ## Preparation
 
@@ -34,6 +37,9 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 [speaker-martijn]: http://www.martijnnieuwenhuizen.nl/
 [speaker-albert]: https://twitter.com/al_bert_brand
 [speaker-peter]: https://peterpeerdeman.nl/
+[speaker-merlijn]: https://twitter.com/murderlon
+[speaker-frank]: https://www.voorhoede.nl/nl/about-us/
+[speaker-timon]: https://timonvanspronsen.nl/
 
 [banner-guests]: https://cmda-bt.github.io/be-course-18-19/assets/banner-guests.svg
 [sketch]: https://www.smashingmagazine.com/2014/11/how-to-get-started-with-sketchnotes/
@@ -45,3 +51,6 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 [lifely]: https://lifely.nl/
 [mirabeau]: https://www.mirabeau.nl/
 [xebia]: https://xebia.com/
+[clever]: https://www.cleverfranke.com/
+[voorhoede]: https://www.voorhoede.nl/nl/
+[awkward]: https://www.awkward.co/

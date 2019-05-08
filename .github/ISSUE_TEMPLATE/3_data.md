@@ -10,6 +10,9 @@ labels: 'week-3, week-3-data'
 ## Name
 <!-- Add your name here -->
 
+## Class
+<!-- Add your class here -->
+
 ## Repo link
 <!-- Include a link to your repository -->
 

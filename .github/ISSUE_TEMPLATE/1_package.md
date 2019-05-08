@@ -9,16 +9,19 @@ labels: 'week-1, week-1-package'
 # Package
 
 ## Name
-`Add your name here`
+<!-- Add your name here-->
+
+## Class
+<!-- Add your class here -->
 
 ## Repo link
-`Include a link to your repository`
+<!-- Include a link to your repository -->
 
 ## Summary
-`A summary of what you did. What progress did you make?`
+<!-- A summary of what you did. What progress did you make? -->
 
 ## Resources used
-`What resources did you use?`
+<!-- What resources did you use? -->
 
 ## Any thoughts?
-`Let us know what you thought of the homework, and give us any feedback. What parts did you find difficult?`
+<!-- Let us know what you thought of the homework, and give us any feedback. What parts did you find difficult? -->
