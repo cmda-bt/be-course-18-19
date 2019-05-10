@@ -70,7 +70,7 @@ In this assignment you’ll store the user input in a `MongoDB` database.
 
 *   [`mongodb-server`](examples/mongodb-server)
     (**example**)
-*   Stuck?  See the [Bugs](/readme#communication) section of the course readme to find a list of
+*   Stuck?  See the [Bugs](https://github.com/cmda-bt/be-course-18-19#communication) section of the course readme to find a list of
     troubleshooting tips
 
 #### Description
@@ -157,7 +157,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 
 [slides-lab]: https://docs.google.com/presentation/d/1FqZ08Yf5IL6kCUjKO53VrWoipsn4foXQAFerjrmHRp8/edit?usp=sharing
 
-[bugs]: readme.md#bugs
+[bugs]: https://github.com/cmda-bt/be-course-18-19#communication
 
 [quote-author]: https://twitter.com/shatterfront/status/816065700577972224
 

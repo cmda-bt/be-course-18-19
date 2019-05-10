@@ -71,7 +71,7 @@ Presenting your work is a skill all by itself, make sure you prepare yourself pr
 
 [slides-lab]: https://docs.google.com/presentation/d/1QKkcyzQzQFmcaDXrZkER4_B458EtxV-DEYDE3V1gAY4/edit?usp=sharing
 
-[bugs]: readme.md#bugs
+[bugs]: https://github.com/cmda-bt/be-course-18-19#communication
 
 [quote-author]: http://mathforum.org/ken/perl_modules.html#document
 

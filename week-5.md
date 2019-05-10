@@ -51,7 +51,7 @@ Presenting your work is a skill all by itself, make sure you prepare yourself pr
 
 [slides-lab]: https://docs.google.com/presentation/d/1wJk_1dxEsj2nrpLMvyhaYaZCaLo_r17L_-Cb7rmdduA/edit?usp=sharing
 
-[bugs]: readme.md#bugs
+[bugs]: https://github.com/cmda-bt/be-course-18-19#communication
 
 [quote-author]: https://twitter.com/shatterfront/status/816065700577972224
 

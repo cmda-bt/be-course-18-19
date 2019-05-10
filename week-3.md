@@ -92,7 +92,7 @@ Work on receiving user input and manipulating data for your own Job Story.
 
 #### Tips
 
-*   Stuck?  See the [Bugs](https://github.com/cmda-bt/be-course-18-19#communication) section of the course readme to find a list of
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
     troubleshooting tips
 
 #### Description
