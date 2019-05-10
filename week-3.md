@@ -128,7 +128,7 @@ Mark this assignment as complete by opening an issue on our [GitHub issue tracke
 Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your project will be reviewed and receive feedback, so expect people to read it, and be ready for tips and tops!
 
 
-[bugs]: readme.md#communication
+[bugs]: https://github.com/cmda-bt/be-course-18-19#communication
 
 [inspiration-cover]: assets/images/dog-ceo.png
 
