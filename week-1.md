@@ -167,7 +167,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 
 
 
-[bugs]: readme.md#communication
+[bugs]: https://github.com/cmda-bt/be-course-18-19#communication
 
 [quote-author]: https://twitter.com/BrendanEich
 
