@@ -26,7 +26,7 @@
 > Computer Problems by [**@xkcd**][comic-author].
 
 ## Assesment
-This week [**Assessment 1**](/assesments/a1.md) will take place. There is no lab this week. You can continue working on your prototype for this assesment.
+This week [**Assessment 1**](/assesments/a1.md) will take place. You can continue working on your prototype for this assesment. In the lab we will focus on code reviewing each other.
 
 #### Preparation
 
@@ -39,8 +39,6 @@ Presenting your work is a skill all by itself, make sure you prepare yourself pr
 * Have the latest version of your code ready in your editor.
 * Open up your docs inside of your GitHub repository.
 * Have a live version up and running.
-
-
 
 #### Tips
 
