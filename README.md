@@ -1,5 +1,7 @@
 # ![Backend - Course 2018-2019][banner]
 
+> **Note**: Back-end has concluded for 2018/2019. Next year will be a new, changed, curriculum. Back-end scores an `8.2` in the student survey! 
+
 ## Table of Contents
 
 *   [Synopsis](#synopsis)
